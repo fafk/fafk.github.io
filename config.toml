@@ -1,0 +1,18 @@
+baseURL = "https://fafk.github.io/"
+languageCode = "en-us"
+title = "jan p."
+theme = "hello"
+
+[params]
+  [params.logo]
+    logoText     = "$ cd /home/fafk"
+    logoHomeLink = "/"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/fafk"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/jan-prichystal/"
+
